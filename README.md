@@ -12,7 +12,6 @@ root@manusa:~# systemctl restart apache2
 
 root@manusa:~#
 
-
     Cara Pengecekan:
 
     Buka web browser, lalu ketik : 172.30.1.1
