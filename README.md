@@ -13,12 +13,12 @@ root@manusa:~# systemctl restart apache2
 root@manusa:~#
 
 
-**Cara Pengecekan:**
+    Cara Pengecekan:
 
-Buka web browser, lalu ketik : 172.30.1.1
+    Buka web browser, lalu ketik : 172.30.1.1
 
-Jika hasilnya:
+    Jika hasilnya:
 
-**Forbidden**
+    Forbidden
 
-Berarti berhasil.
+    Berarti berhasil.
